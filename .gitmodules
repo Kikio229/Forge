@@ -4,3 +4,6 @@
 [submodule "engine/dependencies/luajit"]
 	path = engine/dependencies/luajit
 	url = https://github.com/WohlSoft/LuaJIT.git
+[submodule "engine/dependencies/raylib"]
+	path = engine/dependencies/raylib
+	url = https://github.com/raysan5/raylib.git
