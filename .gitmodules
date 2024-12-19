@@ -7,3 +7,6 @@
 [submodule "engine/dependencies/raylib"]
 	path = engine/dependencies/raylib
 	url = https://github.com/raysan5/raylib.git
+[submodule "engine/dependencies/physfs"]
+	path = engine/dependencies/physfs
+	url = https://github.com/icculus/physfs.git
