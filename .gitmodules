@@ -1,0 +1,6 @@
+[submodule "engine/dependencies/lua"]
+	path = engine/dependencies/lua
+	url = https://github.com/LuaDist/lua.git
+[submodule "engine/dependencies/luajit"]
+	path = engine/dependencies/luajit
+	url = https://github.com/WohlSoft/LuaJIT.git
